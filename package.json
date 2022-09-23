@@ -12,5 +12,10 @@
   "devDependencies": {
     "@types/node": "^18.7.18",
     "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "@webpack-cli/generators": "^2.5.0",
+    "ts-loader": "^9.4.1",
+    "webpack": "^5.74.0"
   }
 }
