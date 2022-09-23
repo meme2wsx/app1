@@ -1,15 +1,14 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack-cli**, you can now run
-
+# ビルド
 ```
 npm run build
 ```
+ dist/が作成され、ビルドした成果物が置かれます
 
-or
-
+# 開発サーバー起動
 ```
-yarn build
+npm run serve
 ```
 
-to bundle your application
+ファイルを保存すると、`npm run buid` をせずとも、自動で再ビルドしてくれます
+
+
